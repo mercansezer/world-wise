@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "ae7a",
+      "cityName": "Rio Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "Sat Oct 05 2024",
+      "notes": "test",
+      "position": {
+        "lat": "39.3508043039667",
+        "lng": "-8.854980468750002"
+      }
+    },
+    {
+      "id": "22cf",
+      "cityName": "Proenca-a-Nova",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "Sat Oct 05 2024",
+      "notes": "test",
+      "position": {
+        "lat": "39.80373666616039",
+        "lng": "-7.893676757812501"
+      }
+    },
+    {
+      "id": "2117",
+      "cityName": "Villalcazar de Sirga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "Sat Oct 05 2024",
+      "notes": "a",
+      "position": {
+        "lat": "42.294601692903164",
+        "lng": "-4.570312500000001"
+      }
+    },
+    {
+      "id": "c3cb",
+      "cityName": "Pavel Banya",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "Mon Oct 07 2024",
+      "notes": "test",
+      "position": {
+        "lat": "42.70817622956733",
+        "lng": "25.180664062500004"
+      }
+    }
+  ]
+}
